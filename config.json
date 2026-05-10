@@ -1,0 +1,20 @@
+{
+  "usuario": "señor",
+  "documentos": "C:\\Users\\User\\OneDrive\\Documentos",
+  "apps": {
+    "vscode": "C:\\Users\\User\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "terminal": "cmd.exe"
+  },
+  "sitios": {
+    "youtube": "https://www.youtube.com",
+    "crunchyroll": "https://www.crunchyroll.com",
+    "github": "https://www.github.com",
+    "gmail": "https://mail.google.com"
+  },
+  "musica": {
+    "alabanza": "https://www.youtube.com/playlist?list=PL0VMnNoBTv4kIZEayWPaxWrP_xeK4Vau9",
+    "adoracion": "https://www.youtube.com/playlist?list=PL0VMnNoBTv4ltchVeq1fH9Bc7h3Yc5aPU",
+    "twenty one pilots": "https://www.youtube.com/playlist?list=PL0VMnNoBTv4lhtW8LabENDFqZVrJAFAuo"
+  }
+}
